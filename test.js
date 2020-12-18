@@ -1,1 +1,5 @@
-console.log({ message: 'Hey there' });
+const run = () => {
+	console.log({ message: 'Hey there' });
+};
+
+run();
